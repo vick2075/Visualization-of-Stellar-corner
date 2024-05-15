@@ -7,3 +7,4 @@ This is a 3D visualization of the positions and distances of around 400 stellar 
 2) Earth is the centre of the display.
 3) The starting display shows Earth with the Moon in each of its quarters.
 4) The starting perspective is from the direction to which the Solar System is moving.
+5) Placing the cursor on a point object will display its name/designation.
